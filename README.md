@@ -45,11 +45,11 @@ The Linux & SAP BASIS Interactive Trainer is a command-line tool designed to hel
 ### 📸 Screenshots
 
 <!-- Place for screenshots -->
-![Main Menu](path/to/main_menu.png)
+![Main Menu](/imgs/main_menu.png)
 
-![Quiz Example](path/to/quiz_example.png)
+![Quiz Example](imgs/quiz_example.png)
 
-![Results Screen](path/to/results_screen.png)
+![Results Screen](imgs/results_screen.png)
 
 ### 🚀 Installation
 
@@ -112,11 +112,11 @@ El Entrenador Interactivo de Linux y SAP BASIS es una herramienta de línea de c
 ### 📸 Capturas de Pantalla
 
 <!-- Lugar para capturas de pantalla -->
-![Menú Principal](ruta/a/menu_principal.png)
+![Menú Principal](imgs/menu_principal.png)
 
-![Ejemplo de Cuestionario](ruta/a/ejemplo_cuestionario.png)
+![Ejemplo de Cuestionario](imgs/ejemplo_cuestionario.png)
 
-![Pantalla de Resultados](ruta/a/pantalla_resultados.png)
+![Pantalla de Resultados](imgs/pantalla_resultados.png)
 
 ### 🚀 Instalación
 
